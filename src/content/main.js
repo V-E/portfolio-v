@@ -16,7 +16,7 @@ const mainContent = {
     linkedIn: "https://www.linkedin.com/in/victor-fotso/"
   },
   buttons: {
-    resumeLink: "/documents/CV_Victor Evrard_FOTSO FOTSO.pdf",
+    resumeLink: "/documents/CV_Victor.pdf",
     downloadResumeText: "Download my resume",
     contactMeText: "Contact Me",
   },
